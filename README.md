@@ -1,7 +1,7 @@
 # Multithreading Application for Conway's Game of Life
 
 ## Overview
-This version of Conway's Game of Life handles boards up to 30,000 x 30,0000 grids. For boards in which the number of cells is larger than the number of pixels, the program utilizes a packing algorithm to pack multiple cells into a pixel, and that pixel is alive if more than half of the packed pixels within it are alive. 
+This version of Conway's Game of Life handles boards up to 30,000 x 30,000 grids. For boards in which the number of cells is larger than the number of pixels, the program utilizes a packing algorithm to pack multiple cells into a pixel, and that pixel is alive if more than half of the packed pixels within it are alive. 
 * Threads: Use the menu bar to select the number of threads to use
 * Board: Generate a random board of a specific size or load in your own
 
